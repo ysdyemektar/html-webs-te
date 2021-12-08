@@ -1,2 +1,2 @@
-# html-webs-te
+# html-websıte
 HTML ile ilk websitesi
